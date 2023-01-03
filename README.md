@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Anna
 
--👨‍🦲 Estudando Redes de Computadores
+👨‍🦲 Estudando Redes de Computadores
 
 
 <div align="center">
