@@ -13,7 +13,7 @@
   <img align="center" alt="Anna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="anna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Anna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="anna-sasuke" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/993308290098417716/1039225315811139624/SasukeCl3Fssico832.webp">
+  <img align="right" alt="anna-sasuke" height="130" style="border-radius: 50px;" src="https://cdn.discordapp.com/attachments/993308290098417716/1039225315811139624/SasukeCl3Fssico832.webp">
 </div>
   
   
