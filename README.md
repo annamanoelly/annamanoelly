@@ -9,8 +9,9 @@
   <img height="180em" width="49%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=annamanoelly&theme=github_dark"/>
   <img height="180em"  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annamanoelly&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-</div>
-  <img align="right" alt="sasuke" height="180" style="border-radius:50px;" src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fnarutofanon.fandom.com%2Fpt-br%2Fwiki%2FSasuke_Uchiha_%2528Terra-832%2529&psig=AOvVaw1MsKrnSz4LWFnft0buc47e&ust=1709231126530000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIC0xcXUzoQDFQAAAAAdAAAAABAE)">
+    
+<div>
+  <img align="right" height="150em" alt="sasuke" src="https://static.wikia.nocookie.net/narutofanon/images/e/e3/SasukeCl%C3%A1ssico832.gif/revision/latest?cb=20170412220258&path-prefix=pt-br">
 </div>
 
  ### Minhas Skills:
