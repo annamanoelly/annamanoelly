@@ -11,7 +11,7 @@
 </div>
     
 <div>
-  <img align="right" height="150em" alt="sasuke" src="https://tenor.com/pt-BR/view/sasuke-uchiha-shippuden-gif-7249527">
+  <img align="right" height="150em" alt="sasuke" src="https://gifdb.com/images/high/sasuke-eternal-sharingan-rlf5nrllu25m0bvv.gif">
 </div>
 
  ### Minhas Skills:
