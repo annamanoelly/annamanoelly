@@ -11,7 +11,7 @@
 </div>
     
 <div>
-  <img align="right" height="150em" alt="sasuke" src="https://static.wikia.nocookie.net/narutofanon/images/e/e3/SasukeCl%C3%A1ssico832.gif/revision/latest?cb=20170412220258&path-prefix=pt-br">
+  <img align="right" height="150em" alt="sasuke" src="https://tenor.com/pt-BR/view/sasuke-uchiha-shippuden-gif-7249527">
 </div>
 
  ### Minhas Skills:
