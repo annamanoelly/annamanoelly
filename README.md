@@ -2,7 +2,7 @@
 
 ## Olá! Tudo bem?
 
-👨‍🦲 Estudando Redes de Computadores
+Estudando Redes de Computadores 🎀💻
 
 <div align="center">
   <a href="https://github.com/annamanoelly">
@@ -10,8 +10,10 @@
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annamanoelly&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+##
+
 <div>
-  <img align="right" height="150em" alt="sasuke" src="https://gifdb.com/images/high/sasuke-eternal-sharingan-rlf5nrllu25m0bvv.gif">
+  <img align="right" height="150em" alt="sasuke" src="https://images-ext-1.discordapp.net/external/xvMDSQ5-SSS5ETWTTABekz8Y2FZXImnaW8N3vdW_lIc/https/gifdb.com/images/high/sasuke-eternal-sharingan-rlf5nrllu25m0bvv.gif?width=842&height=473">
 </div>
 
  ### Minhas Skills:
@@ -20,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=PYTHON&labelColor=0D1117)&nbsp;
 
- ##
+ 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b965e0&height=120&section=footer"/>
   
