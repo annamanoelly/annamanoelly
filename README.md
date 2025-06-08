@@ -7,7 +7,7 @@ Estudando Redes de Computadores 🎀💻
 <div align="center">
   <a href="https://github.com/annamanoelly">
   <img height="180em" width="49%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=annamanoelly&theme=tokyonight"/>
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annamanoelly&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annamanoelly&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ##
