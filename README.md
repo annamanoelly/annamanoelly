@@ -2,7 +2,7 @@
  
 ### Olá! Tudo bem?
 
-Estudando Redes de Computadores 🎀💻
+Estudando Redes de Computadores 💻
 
 <div align="center">
   <a href="https://github.com/annamanoelly">
@@ -11,11 +11,6 @@ Estudando Redes de Computadores 🎀💻
 </div>
 
 ##
-
-<div>
-  <img align="right" height="150em" alt="sasuke" src="https://images-ext-1.discordapp.net/external/xvMDSQ5-SSS5ETWTTABekz8Y2FZXImnaW8N3vdW_lIc/https/gifdb.com/images/high/sasuke-eternal-sharingan-rlf5nrllu25m0bvv.gif?width=842&height=473">
-</div>
-
  ### Minhas Skills:
 ![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
